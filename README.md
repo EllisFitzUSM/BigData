@@ -10,3 +10,4 @@ Here we list some resources that we used in our research that give more in depth
 ### (Facebook) Presto
 [Paper](https://research.facebook.com/publications/presto-sql-on-everything/)
 [PrestoDB](https://prestodb.io/)
+[ELI5 Explanation](https://youtu.be/BGqIkiUtKHY?si=hEQtfqp4Gyy9iU4f)
