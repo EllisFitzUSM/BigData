@@ -15,3 +15,7 @@ Here we list some resources that we used in our research that give more in depth
 [ELI5 Explanation](https://youtu.be/BGqIkiUtKHY?si=hEQtfqp4Gyy9iU4f)
 ### (AirDNA) Data Lake 
 [AirDNA: How The Data Works](https://www.airdna.co/airdna-data-how-it-works) 
+### (Linkedin) Kafka
+[How Linkedin Customizes its 7 Trillion Message Kafka Ecosystem](https://blog.bytebytego.com/p/how-linkedin-customizes-its-7-trillion)
+### Hadoop HDFS
+[Hadoop - HDFS (Hadoop Distributed File System)](https://www.geeksforgeeks.org/data-engineering/hadoop-hdfs-hadoop-distributed-file-system/)
