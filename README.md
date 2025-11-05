@@ -36,6 +36,7 @@ Wrapper over Hadoop + MapReduce with SQL-like syntax.
 [How Linkedin Customizes its 7 Trillion Message Kafka Ecosystem](https://blog.bytebytego.com/p/how-linkedin-customizes-its-7-trillion)
 ## Hadoop Distributed File System
 [Hadoop - HDFS (Hadoop Distributed File System)](https://www.geeksforgeeks.org/data-engineering/hadoop-hdfs-hadoop-distributed-file-system/)
+[Understanding Hadoop](https://www.datacamp.com/blog/hadoop-architecture)
 ## (Apache) Spark
 Language engine for data science and machine learning on single machine or multiple node clusters. Offers Python API/wrapper [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 
