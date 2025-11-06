@@ -51,10 +51,12 @@ Wrapper over Hadoop + MapReduce with SQL-like syntax.
 
 ## (AirDNA) Data Lake 
 [AirDNA: How The Data Works](https://www.airdna.co/airdna-data-how-it-works) 
+
 [Amundsen: open-source data discovery app for big data](https://www.amundsen.io/)
 
 ## (Linkedin) Kafka
 [How Linkedin Customizes its 7 Trillion Message Kafka Ecosystem](https://blog.bytebytego.com/p/how-linkedin-customizes-its-7-trillion)
+
 ## Hadoop Distributed File System
 [Hadoop - HDFS (Hadoop Distributed File System)](https://www.geeksforgeeks.org/data-engineering/hadoop-hdfs-hadoop-distributed-file-system/)
 
