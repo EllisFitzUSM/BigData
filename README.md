@@ -48,8 +48,11 @@ Wrapper over Hadoop + MapReduce with SQL-like syntax.
 [Process of Retraining](https://netflixtechblog.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39)
 
 [More Fundamental Resource](https://hellopm.co/netflix-content-recommendation-system-product-analytics-case-study/)
+
 ## (AirDNA) Data Lake 
 [AirDNA: How The Data Works](https://www.airdna.co/airdna-data-how-it-works) 
+[Amundsen: open-source data discovery app for big data](https://www.amundsen.io/)
+
 ## (Linkedin) Kafka
 [How Linkedin Customizes its 7 Trillion Message Kafka Ecosystem](https://blog.bytebytego.com/p/how-linkedin-customizes-its-7-trillion)
 ## Hadoop Distributed File System
