@@ -6,11 +6,23 @@ Here we list some resources that we used in our research that give more in depth
 Programming model for distributed computing.
 
 [Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+
 [Apache Hadoop](https://hadoop.apache.org/)
+
 [Video Explanation](https://www.youtube.com/watch?v=cvhKoniK5Uo&t=200s)
 
 ## Data Partitioning
 [Concepts and Importance](https://www.geeksforgeeks.org/data-engineering/explain-the-concept-of-data-partitioning-and-its-importance-in-distributed-systems/)
+
+## Columnar Storage
+[MotherDuck](https://motherduck.com/learn-more/columnar-storage-guide/)
+
+## Cloud-Native Big Data Services
+[XenonStack](https://www.xenonstack.com/blog/cloud-native-data-platform)
+
+[Oracle](https://www.oracle.com/cloud/cloud-native/what-is-cloud-native/)
+
+[Amazons Definition](https://aws.amazon.com/what-is/cloud-native/)
 
 ## Data Mesh
 [Data Mesh Architecture - System Design](https://www.geeksforgeeks.org/system-design/data-mesh-architecture-system-design/)
@@ -19,16 +31,20 @@ Programming model for distributed computing.
 Wrapper over Hadoop + MapReduce with SQL-like syntax.
 
 [Paper](https://research.facebook.com/publications/hive-a-warehousing-solution-over-a-map-reduce-framework/)
+
 [Apache Hive](https://hive.apache.org/)
 ## (Facebook) Presto
 "SQL On Everything" - Use SQL to source data from multiple different data stores.
 
 [Paper](https://research.facebook.com/publications/presto-sql-on-everything/)
+
 [PrestoDB](https://prestodb.io/)
+
 [ELI5 Explanation](https://youtu.be/BGqIkiUtKHY?si=hEQtfqp4Gyy9iU4f)
 
 ## Netflix Recommendation System
 [Process of Retraining](https://netflixtechblog.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39)
+
 [More Fundamental Resource](https://hellopm.co/netflix-content-recommendation-system-product-analytics-case-study/)
 ## (AirDNA) Data Lake 
 [AirDNA: How The Data Works](https://www.airdna.co/airdna-data-how-it-works) 
