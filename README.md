@@ -15,17 +15,19 @@ Programming model for distributed computing.
 [Concepts and Importance](https://www.geeksforgeeks.org/data-engineering/explain-the-concept-of-data-partitioning-and-its-importance-in-distributed-systems/)
 
 ## Columnar Storage
-[MotherDuck](https://motherduck.com/learn-more/columnar-storage-guide/)
+[MotherDuck Explaination](https://motherduck.com/learn-more/columnar-storage-guide/)
 
 ## Cloud-Native Big Data Services
-[XenonStack](https://www.xenonstack.com/blog/cloud-native-data-platform)
+[XenonStack Explaination](https://www.xenonstack.com/blog/cloud-native-data-platform)
 
-[Oracle](https://www.oracle.com/cloud/cloud-native/what-is-cloud-native/)
+[Oracle Explaination](https://www.oracle.com/cloud/cloud-native/what-is-cloud-native/)
 
-[Amazons Definition](https://aws.amazon.com/what-is/cloud-native/)
+[Amazon's Definition](https://aws.amazon.com/what-is/cloud-native/)
 
 ## Data Mesh
 [Data Mesh Architecture - System Design](https://www.geeksforgeeks.org/system-design/data-mesh-architecture-system-design/)
+
+[Data Mesh 101 - Collibra](https://www.collibra.com/blog/data-mesh-101-the-impact-of-federated-computational-governance)
 
 ## (Facebook) Hive
 Wrapper over Hadoop + MapReduce with SQL-like syntax.
